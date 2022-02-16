@@ -35,8 +35,6 @@ export const Pokedex = () => {
     getPokemon();
   }, [index]);
 
-  console.log(attributes);
-
   return (
     <Styled.Container>
       <Styled.Pokedex>
