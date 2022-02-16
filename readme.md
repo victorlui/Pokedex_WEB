@@ -7,7 +7,7 @@ Pokedex interativo feito em reactjs com typescript e react-query
 
 <!-- HTML CODE-->
 <div>
-    <img src="https://github.com/victorlui/Pokedex_WEB/blob/master/src/images/screenshot.png" width="350" />
+    <img src="https://github.com/victorlui/Pokedex_WEB/blob/master/src/images/screenshot.png" width="550" />
 </div>
 
 
